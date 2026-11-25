@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Kids Toys Store logo">
+  <!-- Burgundy circle badge -->
+  <circle cx="50" cy="50" r="48" fill="#8B1F3F"/>
+  <!-- Bear head (cream color) -->
+  <circle cx="50" cy="58" r="22" fill="#F2C69A" stroke="#3D110F" stroke-width="2"/>
+  <!-- Bear ears -->
+  <circle cx="36" cy="38" r="9" fill="#F2C69A" stroke="#3D110F" stroke-width="2"/>
+  <circle cx="64" cy="38" r="9" fill="#F2C69A" stroke="#3D110F" stroke-width="2"/>
+  <!-- Bear eyes -->
+  <ellipse cx="44" cy="55" rx="3.2" ry="4" fill="#3D110F"/>
+  <ellipse cx="56" cy="55" rx="3.2" ry="4" fill="#3D110F"/>
+  <!-- Small smile -->
+  <path d="M42 66 Q50 70 58 66" fill="none" stroke="#3D110F" stroke-width="2" stroke-linecap="round"/>
+  <!-- Star -->
+  <path d="M50 20 L55 33 L68 33 L57 42 L61 51 L50 40 L39 51 L43 42 L32 33 L45 33 Z" fill="#FFD700" stroke="#3D110F" stroke-width="1.5"/>
+</svg>
